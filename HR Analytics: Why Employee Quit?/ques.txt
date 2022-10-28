@@ -1,0 +1,21 @@
+1. Effect of Age on Attrition.
+2. Whether travelling was an issue?
+3. What department people quitting mostly.
+4. Whether distance from home was an issue?
+5. Impact of environment
+6. Which Gender had more attrition
+7. Involvement in job?
+8. How Job Satisfaction rating is related to attrition?
+9. Marital status of person
+10. Whether income was an issue?
+11. Whether person worked in many companies before?
+12. Overtime issues?
+13. Whether low percent salary hike was issue?
+14. What's the usual performance of employee who quit
+15. Standard Hours an employee worked.
+16. Years of Experience a person has.
+17. Employee was able to maintaing Work Life Balance
+18. Years in current company
+19. Years in current role
+20. Years since last promotion
+21. Years with current manager.
